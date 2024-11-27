@@ -5,10 +5,11 @@ import './App.css';
 
 function App() {
   var [h,seth] = useState("hide")
-
   let [Mobile,SetMobile] = useState("")
   let [Email,SetEmail] = useState("")
   let [Password,SetPassword] = useState("")
+  let [LogMail,SetLogMail] = useState("")
+  let [LogPass,SetLogPass] = useState("")
 
   let [arr,Setarr] = useState([])
 
@@ -38,7 +39,37 @@ function App() {
 
     console.log(arr);
     
+    alert ("signup done")
+    seth("show")
+
   }
+
+
+  let Loge = (e)=>{
+    SetLogMail (e.target.value)
+  }
+
+  let Passe = (e)=>{
+    SetLogPass (e.target.value)
+  }
+
+  let Logsub = ()=>{
+
+        let a = arr.filter((el)=>{
+            if(el.Email ==LogMail && el.Password == LogPass){
+                return el ;
+              }
+        })    
+        if (a.length > 0) {
+          alert ("Login done")
+        }
+        else{
+          alert ("Login Fail")
+        }
+        console.log(a);
+           
+  }
+
   
  
   return (
@@ -53,9 +84,10 @@ function App() {
      </div>
         </div>
         <div className='w-[510px] pt-[56px] ps-[35px] pe-[35px]'>
-          <input className='in' placeholder='Enter Email / Mobile number' type="text" />
+          <input className='in' placeholder='Enter Email' type="text" onChange = {Loge} />
+          <input className='in' placeholder='Password' type="text" onChange = {Passe} />
           <p className='text-[12px] text-[#878787] font-[500] mb-[20px]'>By continuing, you agree to Flipkart's <a href="" className='text-[#2878F1]'> Terms of Use </a> and <a href="" className='text-[#2878F1]'> Privacy Policy.</a></p>
-          <button className='bb mb-[270px]'>Request OTP</button>
+          <button className='bb mb-[270px]' onClick = {Logsub}>Request OTP</button>
           <div className='text-center'>
             <span className='text-[#2878F1] font-[500] text-[14px] cursor-pointer' onClick={() => seth("hide")}>New to Flipkart? Create an account</span>
           </div>
