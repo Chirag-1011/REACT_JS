@@ -1,0 +1,172 @@
+
+select{
+  background-color: rgb(206, 213, 255);
+  padding: 10px;
+  width: 140px;
+  border-radius: 5px;
+  font-size: 20px;
+
+}
+img{
+  width: 100%;
+}
+.textnav:hover{
+  color: rgb(209, 25, 25);
+}
+.aa{
+  height: 350px;
+  border-radius: 30px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgb(109, 109, 109);
+  background-blend-mode: overlay;
+  background-image: url(https:\\masai-website-images.s3.ap-south-1.amazonaws.com/prateek_6232b84d8b.jpeg);
+}
+.aa2{
+  height: 350px;
+  border-radius: 30px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgb(109, 109, 109);
+  background-blend-mode: overlay;
+  background-image: url(https:\\masai-website-images.s3.ap-south-1.amazonaws.com/Nrupul_d3fe3b289a.jpg);
+}
+.aa3{
+  height: 350px;
+  border-radius: 30px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgb(109, 109, 109);
+  background-blend-mode: overlay;
+  background-image: url(https:\\masai-website-images.s3.ap-south-1.amazonaws.com/Yogesh_52e31f5560.jpg);
+}
+.aa4{
+  height: 350px;
+  border-radius: 30px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgb(109, 109, 109);
+  background-blend-mode: overlay;
+  background-image: url(https:\\masai-website-images.s3.ap-south-1.amazonaws.com/keshav_misra_203a893693.jpeg);
+}
+.aa5{
+  height: 350px;
+  border-radius: 30px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgb(109, 109, 109);
+  background-blend-mode: overlay;
+  background-image: url(https:\\masai-website-images.s3.ap-south-1.amazonaws.com/1614198786109_Ishita_Chanana_d3d8c56ab0.jpg);
+}
+.aa6{
+  height: 350px;
+  border-radius: 30px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgb(109, 109, 109);
+  background-blend-mode: overlay;
+  background-image: url(https:\\masai-website-images.s3.ap-south-1.amazonaws.com/Whats_App_Image_2022_04_15_at_9_02_03_PM_Ankit_Agrawal_4e1586afbf.jpeg);
+}
+.aa7{
+  height: 350px;
+  border-radius: 30px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgb(109, 109, 109);
+  background-blend-mode: overlay;
+  background-image: url(https:\\masai-website-images.s3.ap-south-1.amazonaws.com/amit_saharan_copy_Amit_Kumar_0650e4da7d.png);
+}
+.aa8{
+  height: 350px;
+  border-radius: 30px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgb(109, 109, 109);
+  background-blend-mode: overlay;
+  background-image: url(https:\\masai-website-images.s3.ap-south-1.amazonaws.com/aman_fbbc8625a4.jpg);
+}
+#imgg{
+  height: 22px;
+  margin-top: 10px ;
+}
+
+#c1{
+  background-image: url(https://masai-website-images.s3.ap-south-1.amazonaws.com/prateek_6232b84d8b.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.226);
+}
+
+#c2{
+  background-image: url(https://masai-website-images.s3.ap-south-1.amazonaws.com/Nrupul_d3fe3b289a.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.226);
+}
+#c3{
+  background-image: url(https://masai-website-images.s3.ap-south-1.amazonaws.com/Yogesh_52e31f5560.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.226);
+}
+#c4{
+  background-image: url(https://masai-website-images.s3.ap-south-1.amazonaws.com/keshav_misra_203a893693.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.226);
+}
+
+
+
+
+
+
+#c11{
+  background-image: url(https://masai-website-images.s3.ap-south-1.amazonaws.com/amit_saharan_copy_Amit_Kumar_0650e4da7d.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.226);
+}
+
+#c22{
+  background-image: url(https://masai-website-images.s3.ap-south-1.amazonaws.com/Muhammed_Nasif_Muhammed_Nasif_1_1deffb85ba.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.226);
+}
+#c33{
+  background-image: url(https://masai-website-images.s3.ap-south-1.amazonaws.com/pravin_nikam_photo_Pravin_Dilip_Nikam_1_53a73a99eb.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.226);
+}
+#c44{
+  background-image: url(https://masai-website-images.s3.ap-south-1.amazonaws.com/Avinash_K_1_f516948839.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.226);
+}
