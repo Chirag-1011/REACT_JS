@@ -11,7 +11,8 @@ function RenderData({ data }) {
                     return <div>
                         <p id="infor">UserName : {el.user}</p>
                         <p id="infor">Password :{el.email}</p>
-                        <p id="infor">PassWord : {el.password}</p>
+                        <p id="infor">
+                        PassWord : {el.password}</p>
                     </div>
                 })
             }

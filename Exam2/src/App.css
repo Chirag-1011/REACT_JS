@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+form{
+    height: 440px;
+    width: 400px;
+    border: 1px solid white;
+    text-align: center;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px 1px white;
+}
+input{
+    width: 80%;
+    height: 45px;
+    padding-left: 10px;
+}
+select{
+    height: 45px;
+    width: 84%;
+    padding: 10px;
+}
+#butt{
+    cursor: pointer;
+    width: 45%;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 1px black;
+}
+p{
+    color: red;
+    margin-top: -15px;
+    font-size: 14px;
+}
