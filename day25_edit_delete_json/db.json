@@ -1,0 +1,54 @@
+{
+  "user": [
+    {
+      "id": "3256",
+      "user": "aa",
+      "email": "ahiren900@gmail.com",
+      "pass": "12345"
+    },
+    {
+      "id": "9a0d",
+      "user": "aaasd",
+      "email": "ahiren900@gmail.com",
+      "pass": "12345"
+    },
+    {
+      "id": "c263",
+      "user": "aaasd",
+      "email": "ahiren900@gmail.com",
+      "pass": "12345"
+    },
+    {
+      "id": "042d",
+      "user": "chirag",
+      "email": "devmurarichirag01@gmail.com",
+      "pass": "12345"
+    },
+    {
+      "id": "e18b",
+      "user": "chirag",
+      "email": "chiragdevmurari001@gmail.com",
+      "pass": "12345"
+    },
+    {
+      "id": "6ea6",
+      "user": "chirag",
+      "email": "devmurarichirag01@gmail.com",
+      "pass": "12345"
+    },
+    {
+      "id": "7535",
+      "user": "chirag",
+      "email": "devmurarichirag01@gmail.com",
+      "pass": "12345"
+    }
+  ],
+  "product": [
+    {
+      "id": "96f3",
+      "Title": "rose",
+      "Price": "20000",
+      "Img": "https://images.pexels.com/photos/15239/flower-roses-red-roses-bloom.jpg?cs=srgb&dl=pexels-pixabay-15239.jpg&fm=jpg"
+    }
+  ]
+}
