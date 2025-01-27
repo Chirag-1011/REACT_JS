@@ -1,0 +1,23 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.d{
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    /* border: 1px solid black; */
+    padding-top: 50px;
+}
+.dc{
+    width: 400px;
+    text-align: center;
+    border: 1px solid black;
+}
+input{
+    height: 40px;
+    width: 80%;
+    padding-left: 10px;
+}
