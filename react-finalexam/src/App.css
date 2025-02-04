@@ -1,0 +1,27 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+/* StudentForm */
+form{
+    margin-top: 50px;
+    text-align: center;
+    height: 300px;
+    width: 400px;
+    border: 1px solid black;
+}
+input{
+    height: 35px;
+    width: 70%;
+    margin-top: 15px;
+    border: 1px solid black;
+    padding-left: 10px;
+}
+#SubStudentForm{
+    cursor: pointer;
+}

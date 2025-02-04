@@ -1,0 +1,11 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "rollNumber": "101",
+        "class": "10"
+      }
+    ]
+  }
+  
